@@ -1,0 +1,15 @@
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\bin\Debug\Ornekler.exe.config
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\bin\Debug\Ornekler.exe
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\bin\Debug\Ornekler.pdb
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\bin\Debug\EntityFramework.dll
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\bin\Debug\EntityFramework.xml
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.csprojAssemblyReference.cache
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.Form1.resources
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.Properties.Resources.resources
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.GenerateResource.cache
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.csproj.CopyComplete
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.exe
+C:\Users\merve.kartal\source\repos\Ornekler\Ornekler\obj\Debug\Ornekler.pdb
